@@ -6,8 +6,8 @@ import Navbar from '../components/Navbar'
 import './all.sass'
 
 const TemplateWrapper = ({ children }) => (
-  <div>
-    <Helmet title="Home | Gatsby + Netlify CMS" />
+  <div style={{marginTop: '2em' }}>
+    <Helmet title="Brett Lewis | Stuff &amp; Things About Me" />
     <Navbar />
     <div>{children()}</div>
   </div>
