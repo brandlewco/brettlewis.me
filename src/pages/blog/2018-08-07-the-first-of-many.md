@@ -1,9 +1,9 @@
 ---
 templateKey: blog-post
-title: The First of Many
+title: '10,000 Days'
 date: '2018-08-07T22:54:25+03:00'
 description: coming soon
 tags:
-  - travel israel
+  - life
 ---
 like, very soon.
